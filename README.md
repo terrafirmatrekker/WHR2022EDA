@@ -15,6 +15,8 @@ My project involves cleaning the current WHR22 followed by an EDA and various vi
 ## Directions
 Simply click the ipynb files in the repo this will open a preview and in the left-hand top corner you will see a button 'Open in Colab' Click the button and this will open the notebook so you can run the cells and see the report im action.
 
+You can also simply click this [link](https://colab.research.google.com/drive/17R5ynkJiZqZRnS-oDhozSScbPdzcMkNg?usp=sharing)
+
 ## **Data**
 
 This report will examine the most recent [dataset](https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls) which has been converted into a CSV and stored as a Gist [here](https://gist.github.com/terrafirmatrekker/474f3acc5b44322bc54fcc49870dcfd1).
