@@ -14,6 +14,7 @@ My project involves cleaning the current WHR22 followed by an EDA and various vi
 
 ## Directions
 I strongly reccomend running the file in Colab itself. Simply click this [link](https://colab.research.google.com/drive/17R5ynkJiZqZRnS-oDhozSScbPdzcMkNg?usp=sharing)
+and interact with the notebook by running the cells (Pick Run all under Runtime menu option).
 
 You can also click the ipynb files in the repo this will open a preview and in the left-hand top corner you will see a button 'Open in Colab' Click the button and this will open the notebook so you can run the cells and see the report in action.
 
