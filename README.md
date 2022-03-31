@@ -1,6 +1,6 @@
 # World Happiness Report 2022 EDA
 
-## Analyzing The World Happiness Report of 2022 (WHR22) for Code Louisville Data Analysis With Python 2
+## Analyzing The World Happiness Report of 2022 (WHR22) for Code Louisville Data Analysis With Python
 
 My project involves cleaning the current WHR22 followed by an EDA and various visualizations to highlight my findings.
 
