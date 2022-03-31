@@ -20,7 +20,7 @@ You can also click the ipynb files in the repo this will open a preview and in t
 ### Running in your Own Environment
 If you have to run it in your environment make sure to have the following libraries installed in your Notebook so the project runs properly.
 
-#### Importing the Libraries Needed
+`#### Importing the Libraries Needed
 import pandas as pd
 import numpy as np
 from urllib.request import urlretrieve
@@ -29,7 +29,7 @@ from urllib.request import urlretrieve
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gs
-%matplotlib inline
+%matplotlib inline`
 
 ## **Data**
 
