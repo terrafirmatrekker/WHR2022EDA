@@ -9,7 +9,7 @@ My project involves cleaning the current WHR22 followed by an EDA and various vi
 *  Read data from an external file, such as text, JSON, CSV, etc, and use that data in your application (The data is from an Excel file but cleaned and exported as CSV)
 *  Visualize data in a graph, chart, or other visual representation of data (I used Seaborn to create a Heatmap)
 *  Use Plotly or Matplotlib to create charts/graphs of data (I used Plotly for a geographic representation & Matplotlib for a variety of visualizations)
-*  Source data should not be modified/changed - clean data should be stored separately (data was converted to a CSV for use and stored in a Gist)
+*  Source data should not be modified/changed - clean data should be stored separately (Data was converted to a CSV for use and stored in a Gist)
 *  Use a Jupyter notebook to document your data analysis (I used Google Colab for presentation and documentation)
 
 ## Directions
