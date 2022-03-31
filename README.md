@@ -13,9 +13,23 @@ My project involves cleaning the current WHR22 followed by an EDA and various vi
 *  Use a Jupyter notebook to document your data analysis (I used Google Colab for presentation and documentation)
 
 ## Directions
-Simply click the ipynb files in the repo this will open a preview and in the left-hand top corner you will see a button 'Open in Colab' Click the button and this will open the notebook so you can run the cells and see the report in action.
+I strongly reccomend running the file in Colab itself. Simply click this [link](https://colab.research.google.com/drive/17R5ynkJiZqZRnS-oDhozSScbPdzcMkNg?usp=sharing)
 
-You can also simply click this [link](https://colab.research.google.com/drive/17R5ynkJiZqZRnS-oDhozSScbPdzcMkNg?usp=sharing)
+You can also click the ipynb files in the repo this will open a preview and in the left-hand top corner you will see a button 'Open in Colab' Click the button and this will open the notebook so you can run the cells and see the report in action.
+
+### Running in your Own Environment
+If you have to run it in your environment make sure to have the following libraries installed in your Notebook so the project runs properly.
+
+#### Importing the Libraries Needed
+import pandas as pd
+import numpy as np
+from urllib.request import urlretrieve
+
+#### Importing Visualization Libraries Needed
+import seaborn as sns
+import matplotlib.pyplot as plt
+import matplotlib.gridspec as gs
+%matplotlib inline
 
 ## **Data**
 
